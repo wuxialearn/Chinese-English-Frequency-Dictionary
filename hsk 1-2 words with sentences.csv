@@ -1,0 +1,313 @@
+word	word_meaning	word_pinyin	sentence	sentence_pinyin	sentence_meaning
+你好	hello	nǐhǎo	你好	nǐhǎo	hello.
+朋友	friend	péng you	你好，朋友！	nǐhǎo, péngyǒu!	Hello friend!
+是	is; am	shì	我 是 李伟	wǒ shì lǐ wěi	I am Li Wei.
+我	I	wǒ	李伟 是 我 的 朋友	lǐ wěi shì wǒ de péngyǒu	Li Wei is my friend.
+的	of; belonging to	de	我 是 他 的 朋友	wǒ shì tā de péngyǒu	I am his friend.
+他	he or him	tā	他 是 我 的 朋友	tā shì wǒ de péngyǒu	He is my friend.
+再见	goodbye	zài jiàn	李伟 再见	Lǐwěi zàijiàn	Goodbye Li Wei.
+不	not	bù	我 不 是 他 的 朋友	wǒ bù shì tā de péngyǒu	I am not his friend.
+你	you	nǐ	你 是 我 的 朋友	nǐ shì wǒ de péngyǒu	You are my friend.
+叫	to be called	jiào	我 叫 李伟	wǒ jiào lǐ wěi	My name is Li Wei. / I am called Li Wei.
+吗	(question tag)	ma	他 叫 李伟 吗	tā jiào lǐwěi ma	Is his name Li Wei?
+名字	name	míng zi	他 叫 什么 名字	tā jiào shénme míngzì	What's his name?
+什么	what	shén me	你 叫 什么 名	nǐ jiào shénme míngzì	What is your name?
+谁	who	shéi	你 是 谁	Nǐ shì shéi	Who are you?
+她	she	tā	她 叫 什么 名字	tā jiào shénme míngzì	What's her name?
+这	this	zhè	这 是 李伟	zhè shì lǐ wěi	This is Li Wei.
+苹果	apple	píng guǒ	这 是 我 的 苹果	zhè shì wǒ de píngguǒ 	This is my apple.
+吃	to eat	chī	我 吃 苹果	wǒ chī píng guǒ 	I eat apples.
+米饭	cooked rice	mǐ fàn	我 吃 米饭	wǒ chī mǐfàn	I eat rice.
+喜欢	to like	xǐ huan	他 喜欢 吃 米饭	tā xǐhuān chī mǐfàn	He likes to eat rice.
+和	and	hé	我 喜欢 吃 苹果 和 米饭	wǒ xǐhuān chī píngguǒ hé mǐfàn	I like to eat apples and rice.
+喝	to drink	hē	我 喝 水	wǒ hē shuǐ	I drink water.
+水	water	shuǐ	我 喝 水	wǒ hē shuǐ	I drink water.
+茶	tea	chá	我 喝 茶	wǒ hē chá	I drink tea.
+水果	fruit	shuǐ guǒ	她 吃 水果	tā chī shuǐguǒ	She eats fruit.
+要	want; need	yào	我 要 吃 水果	wǒ yào chī shuǐguǒ	I want to eat fruit.
+有	to have	yǒu	我 有 水果	wǒ yǒu shuǐguǒ	I have fruits.
+一些	some	xiē	他 有 一些 苹果	tā yǒu yīxiē píngguǒ	He has some apples.
+杯	(counter for bottles)	bēi	我 有 一 杯 水	wǒ yǒu yībēi shuǐ	I have one bottle of water.
+一	one	yī	我 有 一 杯 水	wǒ yǒu yībēi shuǐ	I have one bottle of water.
+两	two	liǎng	她 有 两 杯 茶	tā yǒu liǎng bēi chá	She has two bottles of tea.
+爱	to love	ài	我 爱 我 的 妈妈	wǒ ài wǒ de māmā	I love my mother.
+妈妈	mama	mā ma	我 爱 我 的 妈妈	wǒ ài wǒ de māmā	I love my mother.
+个	(object marker)	gè	我 有 两 个 哥哥	wǒ yǒu liǎng gè gēgē	I have two older brothers.
+哥哥	older brother	gē ge	我 有 两 个 哥哥	wǒ yǒu liǎng gè gēgē	I have two older brothers.
+孩子	child	hái zi	你 有 孩子 吗	nǐ yǒu háizi ma	Do you have children?
+姐姐	older sister	jiě jie	我 有 一 个 姐姐	wǒ yǒu yīgè jiějiě	I have one older sister 
+家	home	jiā	这 是 我 的 家	zhè shì wǒ de jiā	This is my house.
+人	man	rén	我 家 有 两 个 人	wǒ jiā yǒu liǎng gè rén	There are two people in my house./There are two people in my family.
+几	how much	jǐ	你 的 家 有 几 个 人	nǐ de jiā yǒu jǐ gèrén	how many people do you have in your house?
+女儿	daughter	nǚ ér	我 女儿 有 两 个 孩子	wǒ nǚ'ér yǒu liǎng gè háizi	my daughter has two children
+我们	we	wǒ men	我们 是 他 的 孩子	wǒmen shì tā de háizǐ	We are his children.
+三	three	sān	我们 家 有 三 个人	wǒmen jiā yǒu sān gè rén	we have three people in our family
+爸爸	father	bà ba	他 是 我 爸爸	tā shì wǒ bàba	He is my father.
+儿子	son	ér zi	他 是 我 的 儿子	tā shì wǒ de érzǐ	He is my son.
+丈夫	husband	zhàng fu	我 的 儿子 是 她 的 丈夫	wǒ de érzi shì tā de zhàngfū	My son is her husband.
+妻子	wife	qī zi	他 的 妻子 是 我 的 女儿	tā de qīzi shì wǒ de nǚ'ér	his wife is my daughter.
+想	to think; to want	xiǎng	我 想 喝 茶	wǒ xiǎng hē chá	I want to drink tea.
+弟弟	younger brother	dì di	我 弟弟 想 吃 米饭	wǒ dìdì xiǎng chī mǐfàn	My little brother wants to eat rice.
+很	very; a lot	hěn	他 很 喜欢 米饭	tā hěn xǐhuān mǐfàn	He likes rice a lot.
+高	high	gāo	我 的 爸爸 很 高	Wǒ de bàba hěn gāo	My father is very tall.
+妹妹	younger sister	mèi mei	我 妹妹 想 喝茶	wǒ mèimei xiǎng hē chá	My little sister wants to drink tea.
+长	grow	zhǎng	我 弟弟 想 长 高	wǒ dìdì xiǎng zhǎng gāo	my younger brother wants to grow taller.
+钱	coin	qián	你 有 钱 吗	Nǐ yǒu qián ma	Do you have any money?
+没	without	méi	我 没有 钱	wǒ méiyǒu qián	I don't have money.
+块	piece; (counter for money)	kuài	这 个 苹果 是 三 块 钱	zhège píngguǒ shì sān kuài qián	This apple is three yuan
+四	four	sì	这个 水果 四 元	zhège shuǐguǒ sì yuán	This fruit is four yuan.
+五	five	wǔ	这 杯 水 是 五 块	zhè bēi shuǐ shì wǔ kuài	This bottle of water is five yuan.
+多少	how much	duō shao	这 杯 水 多少 钱	zhè bēi shuǐ duōshǎo qián	How much money is this bottle of water?
+那	that	nà	那 杯 水 多少 钱	nà bēi shuǐ duōshǎo qián	How much money is that bottle of water.
+六	six	liù	那 两 杯 水 是 六 块	nà liǎng bēi shuǐ shì liù kuài	Those two bottles of water are six yuan.
+七	seven	qī	这 杯 茶 是 七 块	zhè bēi chá shì qī kuài	This bottle of tea is seven yuan.
+八	eight	bā	这 两 个 苹果 八 块 钱	zhè liǎng gè píngguǒ bā kuài qián	These two apples are eight yaun.
+九	nine	jiǔ	他 有 九 杯 水	tā yǒu jiǔ bēi shuǐ	He has nine cups of water.
+十	ten	shí	这 九 杯 茶 十五 块 钱	zhè jiǔ bēi chá shíwǔ kuài qián	These nine cups of tea are fifteen yuan.
+二	two	èr	这 八 个 苹果 是 二十 九 快	zhè bā gè píngguǒ shì èrshíjiǔ kuài	these eight apples are twenty nine yuan
+了	(past particle)	le	我 喝了 两 杯 水	wǒ hēle liǎng bēi shuǐ	I drank two cups of water.
+少	less	shǎo	我 少了 二十 块 钱	wǒ shǎole èrshí kuài qián	I'm twenty yuan short.
+东西	thing	dōng xi	这 是 什么 东西	zhè shì shénme dōngxī	What is this thing?
+在	at	zài	我 在 家	Wǒ zài jiā	I'm at home.
+哪里	where	nǎlǐ	你 在 哪里？	nǐ zài nǎlǐ?	Where are you?
+去	to go	qù	你 要 去 哪里	Nǐ yào qù nǎlǐ	Where are you going?
+商店	store	shāng diàn	我 去 商店	wǒ qù shāngdiàn	I'm going to the store.
+买	to buy	mǎi	我 要 去 商店 买 一些 东​​西	wǒ yào qù shāngdiàn mǎi yīxiē dōng​​xī	I'm going to the store to buy some things.
+贵	expensive	guì	这 很 贵	zhè hěn guì	This is very expensive.
+都	all	dōu	这 家 商店 的 东西 都 很贵	zhè jiā shāngdiàn de dōngxī dōu hěn guì	Everything in this store is expensive.
+哪	which	nǎ	你 想 买 哪个 水果	nǐ xiǎng mǎi nǎge shuǐguǒ	which fruit do you want to buy?
+手机	cell phone	shǒu jī	你 有 手机 吗	nǐ yǒu shǒujī ma	Do you have a cellphone?
+元	yuan	yuán	我 有 九十八 元	wǒ yǒu jiǔshíbā yuán	I have ninety eight yuan.
+千	thousand	qiān	这 个 手机 五 千 元	zhè gè shǒujī wǔqiān yuán	This phone costs five thousand yuan.
+百	hundred	bǎi	我 有 五百 元	Wǒ yǒu wǔbǎi yuán	I have one five hundred yuan.
+零	zero	líng	这个 手机 五千零一 元	zhège shǒujī wǔqiān líng yī yuán	This phone costs 5,001 yuan.
+卖	to sell	mài	他 卖 水果	tā mài shuǐguǒ	He sells fruit.
+新	new	xīn	我 今天 买了 新 手机	wǒ jīntiān mǎile xīn shǒujī	I bought a new phone today.
+便宜	cheap	pián yi	这 茶 很 便宜	Zhè chá hěn piányí	This tea is very cheap.
+找	to try to find	zhǎo	我去 商店 找 便宜 的 东西 买	wǒ qù shāngdiàn zhǎo piányí de dōngxī mǎi	I'm going to the store to look for cheap things to buy.
+今天	today	jīn tiān	我 今天 要 去 商店	Wǒ jīntiān yào qù shāngdiàn	I'm going to the store today.
+星期	week; day of the week	xīng qī	今天 是 星期一	jīntiān shì xīngqí yī	today is Monday.
+明天	tomorrow	míng tiān	明天 是 星期六	míngtiān shì xīngqíliù	tomorrow is Saturday.
+昨天	yesterday	zuó tiān	昨天 是 星期三	zuótiān shì xīngqísān	yesterday was Wednesday.
+号	day of a month	hào	明天 是 一月 三 号	míngtiān shì yī yuè sān hào	Tomorrow is January third.
+月	moon; month	yuè	明天 是 一月 三 号	míngtiān shì yī yuè sān hào	Tomorrow is January third.
+日	sun	rì	今天 是 什么 日子	jīntiān shì shénme rìzi	what day is today?
+年	year	nián	昨天 是 两 千 二十 三 年 五月 二十 八 号	zuótiān shì liǎng qiān èrshísān nián wǔ yuè èrshíbā hào	yesterday was may twenty eight, two thousand twenty three.
+去年	last year	qù nián	去年 是 一九九九 年	qùnián shì yījiǔjiǔjiǔ nián	Last year was nineteen ninety nine.
+岁	years old	suì	去年 我 二十 三 岁	qùnián wǒ èrshísān suì	Last year I was twenty three years old.
+生日	birthday	shēng rì	明天 是 我 的 生日	míngtiān shì wǒ de shēngrì	Tomorrow is my birthday.
+快乐	happy	kuài lè	生日快乐 ！	shēngrì kuàilè!	happy birthday!
+每	each	měi	每年 我 长 高	měi nián wǒ zhǎng gāo	every year I grow taller
+点	o'ckock	diǎn	我 三 点 要 去 商店	wǒ sān diǎn yào qù shāngdiàn	I'm going to the store at three o clock.
+起床	to get out of bed	qǐ chuáng	你每天几点起床	nǐ měitiān jǐ diǎn qǐchuáng	What time do you wake up every day?
+早上	morning	zǎo shang	我 每天 早上 八 点 起床	wǒ měitiān zǎoshang bā diǎn qǐchuáng	I wake up at eight o'clock in the morning every day.
+后	after	hòu	起床 后 我 喝 了 一杯 水	qǐchuáng hòu wǒ hēle yībēi shuǐ	I drank a cup of water after waking up.
+饭	meal	fàn	我 起床 后 吃 早饭	wǒ qǐchuáng hòu chī zǎofàn	I have breakfast after getting up.
+小时	hour	xiǎo shí	我 起床 一 小时 后 吃 早饭	Wǒ qǐchuáng yī xiǎoshí hòu chī zǎofàn	I eat breakfast one hour after waking up.
+时间	time	shí jiān	你 有 时间 去 商店 吗	nǐ yǒu shíjiān qù shāngdiàn ma	Do you have time to go to the store?
+分钟	minute	fēn zhōng	三十 分钟 后 我 有 时间 去 商店	sānshí fēnzhōng hòu wǒ yǒu shíjiān qù shāngdiàn	I will have time to go to the store in thirty minutes.
+上午	a.m.	shàng wǔ	我 今天 上午 十 点 三十 分 吃 了 早饭	wǒ jīntiān shàngwǔ shí diǎn sānshí fēn chīle zǎofàn	I ate breakfast at ten thirty a.m. today。
+现在	now	xiàn zài	我 现在 没 时间 去 商店	wǒ xiànzài méi shíjiān qù shāngdiàn	I don't have time to go to the store now.
+中午	noon	zhōng wǔ	中午 我 有时 间 去 商店 买 午饭	zhōngwǔ wǒ yǒu shíjiān qù shāngdiàn mǎi wǔfàn	I will have time to go to the store at noon to buy lunch
+睡觉	to go to bed	shuì jiào	你 每天 几点 睡觉	nǐ měitiān jǐ diǎn shuìjiào	What time do you go to sleep every day?
+晚上	evening	wǎn shang	我 晚上 十 点 十五 分 睡觉	wǒ wǎnshàng shí diǎn shíwǔ fēn shuìjiào	I go to sleep at ten fifteen in the evening
+下午	afternoon	xià wǔ	我下午 1:30 吃午饭。	wǒ xiàwǔ 1:30 Chī wǔfàn.	I had lunch at 1:30 pm.
+所以	therefore	suǒ yǐ	昨天 中午 没 时间 吃 午饭 所以 下午 一点 吃 了	zuótiān zhōngwǔ méi shíjiān chī wǔfàn suǒyǐ xiàwǔ yīdiǎn chīle	yesterday I didn't have time to eat lunch at noon so I ate it at one o'clock in the afternoon.
+累	tired	lèi	我 今天 很 累	Wǒ jīntiān hěn lèi	I'm very tired today.
+就	at once	jiù	昨天 我 很 累 所以 吃完 晚饭 就 睡觉 了	zuótiān wǒ hěn lèi suǒyǐ chī wán wǎnfàn jiù shuìjiàole	I was very tired yesterday so I went to sleep after eating dinner.
+北京	Beijing	Běi jīng	我现在在北京	wǒ xiànzài zài běijīng	I'm in Beijing right now.
+回	to return	huí	我 晚上 七点 回家	wǒ wǎnshàng qī diǎn huí jiā	I come home at seven p.m.
+住	to live	zhù	我 住 在 北京	wǒ zhù zài běijīng	I live in Beijing
+大	big	dà	我 家 很大	Wǒ jiā hěn dà	My house is very big.
+小	small	xiǎo	他 家 很 小	tā jiā hěn xiǎo	his house is very small.
+狗	dog	gǒu	我 的 狗 很 大	wǒ de gǒu hěn dà	my dog is very big.
+猫	cat	māo	我 的 猫 很 小	wǒ de māo hěn xiǎo	my cat is very small.
+喂	to feed	wèi	我 回家 后 喂 我 的 猫	wǒ huí jiā hòu wèi wǒ de māo	I feed my cat after I come home.
+杯子	cup	bēi zi	那个 杯子 是 我 的	Nàgè bēizǐ shì wǒ de	That cup is mine.
+房间	room	fáng jiān	那 是 我 哥哥 的 房间	nà shì wǒ gēgē de fángjiān	That is my brother's room.
+里	inside	lǐ	狗 在 那个 房间 里	Gǒu zài nàgè fángjiān lǐ	The dog is in that room.
+桌子	table	zhuō zi	那个 房间 里 有 桌子	nàgè fángjiān li yǒu zhuōzǐ	There is a table in that room.
+上	on top	shàng	杯子 在 桌子 上	Bēizǐ zài zhuōzǐ shàng	The cup is on the table.
+下	down	xià	猫 在 桌子 下	māo zài zhuōzi xià.	The cat is under the table.
+它	it	tā	我 爱 我 的 猫 ， 它 很 小	wǒ ài wǒ de māo, tā hěn xiǎo	I love my cat, it is very small
+旁边	beside	páng biān	狗 在 桌子 旁边	Gǒu zài zhuōzǐ pángbiān	The dog is next to the table.
+椅子	chair	yǐ zi	椅子 在 桌子 旁边	yǐzǐ zài zhuōzǐ pángbiān	The chair is next to the table.
+张	(counter for tables); to open up	zhāng	我 的 房间 里 有 一张 桌子	wǒ de fángjiān li yǒu yīzhāng zhuōzǐ	I have a table in my room.
+长	long	zhǎng	这 张 桌子 很 长	zhè zhāng zhuōzǐ hěn zhǎng	This table is very long.
+坐	to sit	zuò	他 坐 在 椅子 上	tā zuò zài yǐzǐ shàng	He is sitting on the cair.
+电脑	computer	diàn nǎo	我 的 电脑 在 我 房间 的 桌子 上	wǒ de diànnǎo zài wǒ fángjiān de zhuōzǐ shàng	My computer is in my room on the desk.
+电视	television	diàn shì	你 喜欢 看 电视 吗	nǐ xǐhuān kàn diànshì ma	Do you like watching TV?
+电影	movie	diàn yǐng	我 喜欢 看 电影	wǒ xǐhuān kàn diànyǐng	I like watching movies.
+真	really	zhēn	我 真的 很 喜欢 这个 电影	wǒ zhēn de hěn xǐhuān zhège diànyǐng	I really like this movie
+车	car	chē	我 哥哥 有 车	Wǒ gēgē yǒu chē	My older brother has a car.
+开	to start; to drive	kāi	我 每天 五 点 开车 回家	wǒ měitiān wǔ diǎn kāichē huí jiā	I drive home at five o'clock every day
+会	can; will	huì	我 会 开车	wǒ huì kāichē	I can drive.
+公共汽车	bus	gōng gòng qì chē	我 坐 公交车 去 商店	wǒ zuò gōngjiāo chē qù shāngdiàn	I go to the store by bus
+船	boat	chuán	我 喜欢 坐 船	wǒ xǐhuān zuò chuán	I like taking boats.
+到	to (a place)	dào	我 坐 船 到 北京	wǒ zuò chuán dào běijīng	I took a boat to Beijing.
+从	from	cóng	我 从 家 坐 公共汽车 到 商店	wǒ cóng jiā zuò gōnggòng qìchē dào shāngdiàn	I take a bus from my house to the store.
+火车站	train station	huǒ chē zhàn	我 在 火车站	wǒ zài huǒchē zhàn	I'm at the train station.
+票	ticket	piào	你 要 在 火车站 买 票 吗	nǐ yào zài huǒchē zhàn mǎi piào ma	Are you going to buy tickets at the train station?
+自行车	bicycle	zì xíng chē	你 有 自行车 吗	nǐ yǒu zìxíngchē ma	do you have a bicycle?
+机场	airport	jī chǎng	我 要 去 机场	Wǒ yào qù jīchǎng	I have to go to the airport.
+出租车	taxi	chū zū chē	我 坐 出租车 去 机场	wǒ zuò chūzū chē qù jīchǎng	I took a taxi to the airport.
+飞机	airplane	fēi jī	我 会 坐 飞机 去 北京	wǒ huì zuò fēijī qù běijīng	I will take a plane to Beijing.
+出	to go out	chū	我 从 家里 出去 了。	wǒ cóng jiālǐ chūqùle.	I left home.
+旅游	trip	lǚ yóu	我 想 出去 旅游	wǒ xiǎng chūqù lǚyóu	I want to go traveling.
+菜	dish	cài	我 喜欢 这个 菜	wǒ xǐhuān zhège cài	I like this dish.
+饭馆	restaurant	fàn guǎn	我们 要 去 饭馆	Wǒmen yào qù fànguǎn	We're going to the restaurant.
+比	more than	bǐ	这个 饭馆 的 菜 比 那个 饭馆 的 菜 贵	zhège fànguǎn de cài bǐ nàge fànguǎn de cài guì	The dishes in this restaurant are more expensive than the dishes in that restaurant.
+好吃	tasty	hǎo chī	这 菜 好吃 吗	zhè cài hào chī ma?	Is this dish tasty?
+最	most	zuì	这个 饭馆 的 菜 最 好吃	zhège fànguǎn de cài zuì hào chī	The dishes in this restaurant are the most delicious.
+咖啡	coffee	kā fēi	我 每天 早上 喝 咖啡	wǒ měitiān zǎoshang hē kāfēi	I drink coffee every morning.
+牛奶	cow's milk	niú nǎi	我 喜欢 喝 牛奶	Wǒ xǐhuān hē niúnǎi	I like to drink milk.
+给	to	gěi	给 我 一杯 牛奶	gěi wǒ yībēi niúnǎi	Give me a cup of milk.
+服务员	waiter	fú wù yuán	服务员 ， 给 我 一 杯 咖啡	fúwùyuán, gěi wǒ yībēi kāfēi	Waiter, give me one cup of coffee.
+鸡蛋	egg	jī dàn	我们 都 喜欢 吃 鸡蛋 和 喝 牛奶	wǒmen dōu xǐhuān chī jīdàn hé hē niúnǎi	We all like to eat eggs and drink milk.
+正在	currently	zhèng zài	他 正在 吃 鸡蛋	tā zhèngzài chī jīdàn	He is eating eggs.
+西瓜	watermelon	xī guā	她 吃 西瓜	tā zhèngzài chī xīguā	She is eating watermelon.
+公斤	kilogram	gōng jīn	这个 西瓜 很 大 ， 有 十八 公斤	zhège xīguā hěn dà, yǒu shíbā gōngjīn	this watermelon is very big, it is eighteen kilograms.
+羊肉	mutton	yáng ròu	他 不 喜欢 吃 羊肉	tā bù xǐhuān chī yángròu	He doesn't like to eat mutton.
+鱼	fish	yú	我 喜欢 吃 鱼	wǒ xǐhuān chī yú	I like to eat fish.
+也	also	yě	我 也 喜欢 吃 鱼	wǒ yě xǐhuān chī yú	I also like to eat fish.
+肉	meat	ròu	他 喜欢 吃 什么 肉	tā xǐhuān chī shénme ròu?	What kind of meat does he likes to eat?
+说	to speak	shuō	你 说 什么	nǐ shuō shénme	What did you say?
+汉语	Chinese language	hàn yǔ	我 会 说 汉语	wǒ huì shuō hànyǔ	I can speak chinese.
+学习	to learn	xué xí	我 正在 学习 汉语	wǒ zhèngzài xuéxí hànyǔ	I'm currently learning Chinese.
+懂	to understand	dǒng	我 不 懂 汉语	wǒ bù dǒng hànyǔ	I don't understand Chinese.
+本	(counter for books)	běn	我 不 懂 这 本 书	wǒ bù dǒng zhè běn shū	I don't understand this book.
+书	book	shū	我 不 懂 这 本 书	wǒ bù dǒng zhè běn shū	I don't understand this book.
+读	to read	dú	我 读了 那 本 书	wǒ dúle nà běn shū	I read that book.
+但是	but	dàn shì	我 会 说 ， 但是 不会 读 汉语	wǒ huì shuō, dànshì bù huì dú hànyǔ	I can speak, but can’t read Chinese.
+第一	first	dì yī	这 是 我 的 第一 本 汉语 书	zhè shì wǒ de dì yī běn hànyǔ shū	This is my first chinese book
+呢	how about	ne	我 会 读 汉语，你 呢 ?	wǒ huì dú hànyǔ, nǐ ne?	I can read Chinese, how about you?
+写	to write	xiě	我 会 写 汉语	wǒ huì xiě hànyǔ	I can write Chinese.
+字	letter; character	zì	你 会 写 这个 字 吗？	nǐ huì xiě zhège zì ma?	Can you write this character?
+错	mistake	cuò	你 写 错了 我 的 名字	nǐ xiě cuòle wǒ de míngzì	You wrote my name incorrectly
+意思	meaning	yì si	这个 字 是 什么 意思	zhège zì shì shénme yìsi	What does this character mean?
+报纸	newspaper	bào zhǐ	  我 每天 都 读 报纸	wǒ měitiān dū dú bàozhǐ	I read the newspaper everyday.
+送	to deliver	sòng	  报纸 今天 早上 六 点 三十 分送 了	bàozhǐ jīntiān zǎoshang liù diǎn sānshí fēn sòngle	The newspaper was delivered at six thirty in the moring today.
+已经	already	yǐ jīng	我 已经 读 今天 的 报纸 了	wǒ yǐjīng dú jīntiān de bàozhǐle	I already read today’s newspaper.
+完	to finish	wán	我 读 完 这 本 书	wǒ dú wán zhè běn shū	I finished reading this book.
+学生	student	xué sheng	我 是 学生	wǒ shì xuéshēng	I am a student.
+学校	school	xué xiào	我 每天 去 学校	wǒ měitiān qù xuéxiào	I go to school every day.
+上课	to attend class;	shàng kè	我 现在 要 去 上课	Wǒ xiànzài yào qù shàngkè	I'm going to class now.
+开始	to begin	kāi shǐ	每天 九 点 开始 上课	měitiān jiǔ diǎn kāishǐ shàngkè	Class begins at nine o'clock every day.
+课	class	kè	我们 今天 有 课 吗 ?	wǒmen jīntiān yǒu kè ma?	Do we have class today?
+来	to come	lái	他 今天 来 学校 吗	tā jīntiān lái xuéxiào ma	Is he coming to school today?
+好	good	hǎo	他 是个 好 学生	他是个好学生	He is a good student.
+老师	teacher	lǎo shī	老师 早上 好	lǎoshī zǎoshang hǎo	Good morning, teacher.
+告诉	to tell	gào su	告诉 老师 我 今天 不 来 上课	gàosù lǎoshī wǒ jīntiān bù lái shàngkè	Tell the teacher I'm not coming to class today.
+教室	classroom	jiào shì	老师 现在 不在 教室	lǎoshī xiànzài bùzài jiàoshì	The teacher is not in the classroom right now.
+同学	classmate	tóng xué	我 的 同学 在 教室	wǒ de tóngxué zài jiàoshì	My classmates are in the classroom.
+一起	in the same place	yī qǐ	学生们 在 教室 里 一起 学习	zuéshēngmen zài jiàoshì lǐ yīqǐ xuéxí	The students are studying together in the classroom.
+笑	laugh	xiào	学生们 一起 笑	xuéshēngmen yīqǐ xiào	The students laughed together.
+多	many	duō	我 今天 有 很 多 课	wǒ jīntiān yǒu hěnduō kè	I have a lot of classes today.
+考试	to take an exam	kǎo shì	今天 有 考试	jīntiān yǒu kǎoshì	There is an exam today.
+准备	preparation	zhǔn bèi	我 没有 准备 好 考试	wǒ méiyǒu zhǔnbèi hǎo kǎoshì	 I wasn't prepared for the exam.
+题	problem	tí	老师 给 我们 出 了 很 多 考试 题	lǎoshī gěi wǒmen chūle hěnduō kǎoshì tí	The teacher gave us a lot of test questions.
+冷	cold	lěng	我 很 冷	wǒ hěn lěng	I am cold.
+天气	weather	tiān qì	今天 天气 很 冷	jīntiān tiānqì hěn lěng	The weather is very cold today.
+热	hot	rè	今天 天气 很 热	jīntiān tiānqì hěn rè	The weather is very hot today.
+非常	unusual	fēi cháng	今天 天气 非常 冷	jīntiān tiānqì fēicháng lěng	The weather is extreamly cold today.
+雪	snow	xuě	下 雪 了	xià xuě le	It is snowing.
+时候	time	shí hou	下雪 的 时候 我们 不 上课	Xià xuě de shíhòu wǒmen bù shàngkè	When it snows we don't have class.
+下雨	to rain	xià yǔ	今天 下雨 了。	jīntiān xiàyǔ le.	It's raining today.
+可能	might (happen)	kě néng	今天 可能 下雨。	jīntiān kěnéng xiàyǔ.	It might rain today.
+再	again	zài	明天 再 下雨 吗	míngtiān zài xiàyǔ ma	Will it rain again tomorrow?
+太	too	tài	今天 天气 太 热 了	jīntiān tiānqì tài rè le	The weather today is too hot!
+别	don't	bié	别 出去 ， 现在 下雨	bié chūqù, xiànzài xiàyǔ	Don't go out, it's raining now.
+希望	to wish for	xī wàng	我 希望 明天 天气 好。	wǒ xīwàng míngtiān tiānqì hǎo.	I hope tomorrow the weather is good.
+晴	clear	qíng	我 希望 明天 天气 晴	wǒ xīwàng míngtiān tiānqì qíng	I hope the weather will be clear tomorrow.
+阴	overcast	yīn	今天 太阴 了	jīntiān tàiyīnle	It's too cloudy today.
+认识	to know	rèn shi	我 认识 他 的 朋友。	wǒ rènshi tā de péngyǒu.	I know his friend.
+高兴	happy	gāo xìng	我 很 高兴 认识 你	wǒ hěn gāoxìng rènshí nǐ	I'm very glad to meet you.
+先生	Mr.	xiān sheng	你好，李先生	nǐ hǎo, lǐ xiānshēng	Hello, Mr. Li.
+介绍	to introduce (sb to sb)	jiè shào	我 会 介绍 我 的 朋友	wǒ huì jièshào wǒ de péngyǒu	I'll introduce my friend.
+让	allow	ràng	让 我 介绍 李 伟 先生	ràng wǒ jièshào lǐ wěi xiānshēng	Allow me to introduce you to Mr. Li Wei.
+谢谢	to thank	xiè xie	谢谢 您	xièxiè nín	Thank you.
+欢迎	to welcome	huān yíng	欢迎 来到 我 家	huānyíng lái dào wǒ jiā	 Welcome to my home.
+您	you (polite)	nín	谢谢 您	xièxiè nín	Thank you.
+姓	family name	xìng	你 姓 什么	nǐ xìng shénme	What's your last name?
+不客气	you're welcome	bù kè qi	不客气，没 什么 大不了 的	bùkèqì, méishénme dàbùliǎo de.	You're welcome, it's no big deal.
+帮助	help	bāng zhù	我 的 朋友 会 帮助 我	wǒ de péngyǒu huì bāngzhù wǒ.	My friend will help me.
+可以	can	kě yǐ	我 可以 帮助 你	wǒ kěyǐ bāngzhù nǐ	I can help you.
+问题	question	wèn tí	我 有 一 个 问题	wǒ yǒu yīgè wèntí	I have a question.
+回答	to reply; to answer	huí dá	你 可以 回答 这个 问题 吗？	nǐ kěyǐ huídá zhège wèntí ma?	Can you answer this question?
+知道	to know	zhī dào	我 知道 他 的 名字。	wǒ zhīdào tā de míngzì.	I know his name.
+衣服	clothes	yī fu	我 正在 买 衣服	wǒ zhèngzài mǎi yīfú	I'm buying clothing.
+穿	wear	chuān	你 今天 穿了 什么	nǐ jīntiān chuānle shénme	What are you wearing today?
+件	item; (counter for clothing)	jiàn	这 件 衣服 是 新 的	zhè jiàn yīfú shì xīn de	This clothing is new.
+颜色	color	yán sè	那 件 衣服 是 什么 颜色 的	nà jiàn yīfú shì shénme yánsè de	What color is that peice of clothing?
+着	(aspect particle indicating action in progress)	zhe	他 穿着 新 衣服	tā chuānzhe xīn yīfú	He is wearing new clothes.
+红	red	hóng	他 穿着 一 件 红色 的 衣服	tā chuānzhe yī jiàn hóngsè de yīfu	he is wearing red clotihng
+漂亮	pretty	piào liang	我 觉得 这个 小姐 穿 红 衣服 很 漂亮	wǒ juédé zhège xiǎojiě chuān hóng yīfú hěn piàoliang	I think this lady looks beautiful in red dress
+漂亮	pretty	piào liang	她 的 衣服 很 漂亮	tā de yīfu hěn piàoliang.	Her clothes are very pretty.
+小姐	young lady	xiǎo jie	那 个 小姐 很 漂亮	nà gè xiǎojiě hěn piàoliang.	That young lady is very pretty.
+觉得	to think	jué de	我 觉得 这 件 衣服 很 漂亮	wǒ juéde zhè jiàn yīfu hěn piàoliang.	I think this clothing is very pretty.
+怎么样	how?	zěn me yàng	你 觉得 这个 颜色 怎么样	nǐ juédé zhège yánsè zěnmeyàng	What do you think of this color?
+白	white	bái	我 最 喜欢 白色 的	wǒ zuì xǐhuān báisè de	I like the white one the most
+女人	woman	nǚ rén	你 觉得 那个 女人 漂亮 吗	nǐ juédé nàgè nǚrén piàoliang ma	Do you think that woman is pretty?
+眼睛	eye	yǎn jing	她 的 眼睛 很 漂亮	tā de yǎnjīng hěn piàoliang	Her eyes are very beautiful.
+黑	black	hēi	我 喜欢 黑色 的 衣服	wǒ xǐhuān hēisè de yīfú	I like black clothes.
+手表	wrist watch	shǒu biǎo	他 有 一 个 黑色 的 手表	tā yǒu yīgè hēisè de shǒubiǎo	He has a black watch.
+洗	to wash	xǐ	我 现在 正在 洗衣 服	wǒ xiànzài zhèngzài xǐ yīfú	I'm currently in middle of washing my clothes.
+医生	doctor	yī shēng	他 是 个 医生	Wǒ tā shìgè yīshēng	He is a doctor.
+看	to see	kàn	你 要 去 看 医生 	nǐ yào qù kàn yīshēng	You need to see a doctor.
+打电话	to make a phone call	dǎ diàn huà	你 要 打电话 给 医生	nǐ yào dǎ diànhuà gěi yīshēng	You need to call a doctor.
+生病	to fall ill	shēng bìng	我 生病 了	wǒ shēngbìngle	I am sick.
+得	to have to	děi	我 生病 了 ， 得 去 看 医生	Wǒ shēngbìng le, děi qù kàn yīshēng	I'm sick, I have to go see a doctor.
+医院	hospital	yī yuàn	他 去 医院 了	tā qù yīyuànle	he went to the hospital.
+次	next in sequence	cì	这个 月 我去 医院 两 次	zhège yuè wǒ qù yīyuàn liǎng cì	I went to the hospital twice this month.
+身体	(human) body	shēn tǐ	你 身体 怎么样	nǐ shēntǐ zěnme yàng	How is your health?
+药	medicine	yào	医生 给 了 我 眼睛 的 药	yīshēng gěile wǒ yǎnjīng de yào	The doctor gave me eye medicine.
+上班	to go to work	shàng bān	我 每天 八 点 上班。	wǒ měitiān bā diǎn shàngbān.	I go to work at eight o'clock every day.
+公司	company	gōng sī	他 的 公司 很 大。	tā de gōngsī hěn dà.	His company is very big.
+还	still	hái	他 还 在 公 司 里	tā hái zài gōngsī lǐ	He’s still at the company./He's still at work.
+忙	busy	máng	我 今天 很 忙。	wǒ jīntiān hěn máng.	I am very busy today.
+工作	to work	gōng zuò	我 现在 在 公司 工作	wǒ xiànzài zài gōngsī gōngzuò	I'm working at the company right now.
+做	to do	zuò	你 做 什么 工作	nǐ zuò shénme gōngzuò	what's your job?
+为	for	wèi	我 已经 为 公司 工作 十年 了	Wǒ yǐjīng wèi gōngsī gōngzuò shí niánle	I have been working for the company for ten years.
+中国	China	Zhōng guó	我 在 中国 公司 工作	wǒ zài zhōngguó gōngsī gōngzuò	I work for chinese company.
+对不起	sorry	duì bu qǐ	对不起，我 不 懂	duìbuqǐ, wǒ bù dǒng.	Sorry, I don't understand.
+因为	because	yīn wèi	对不起，我今天没来上班，因为要去医院。	Duìbùqǐ, wǒ jīntiān méi lái shàngbān, yīnwèi yào qù yīyuàn.	I'm sorry, I didn't come to work today because I had to go to the hospital.
+没关系	it doesn't matter	méi guān xi	还有 人 没 来 ， 但是 没关系 ， 我们 可以 开始	hái yǒurén méi lái, dànshì méiguānxì, wǒmen kěyǐ kāishǐ	There are still people who haven't come, but it doesn't matter, we can start.
+大家	everyone	dà jiā	大家 都 在 吗	dàjiā dōu zài ma?	is everyone here?
+请	to ask	qǐng	请 明天 六 点 来 上班	qǐng míngtiān liù diǎn lái shàngbān	Please come to work at six tomorrow.
+说话	to speak	shuō huà	请 让 我 说话	qǐng ràng wǒ shuōhuà	Please let me speak.
+事情	affair	shì qing	我 现在 很 忙 ， 有 很多 事情 要 做	wǒ xiànzài hěn máng, yǒu hěnduō shìqíng yào zuò	I am very busy now, there are a lot of things to do.
+左边	left	zuǒ bian	商店 在 学校 的 左边	shāngdiàn zài xuéxiào de zuǒbiān	The store is the the left of the school.
+前面	ahead	qián miàn	前面 有 一个 学校	qiánmiàn yǒu yīgè xuéxiào	There is a school ahead.
+门	door; gate	mén	我 就 在 门 前面	wǒ jiù zài mén qiánmiàn	I'm right in front of the door.
+怎么	how	zěn me	怎么 去 商店？	zěnme qù shāngdiàn?	How do I get to the store?
+进	to enter; to advance	jìn	门 在 哪里 ?   我 不知 道 怎么 进去 。	mén zài nǎlǐ? wǒ bù zhīdào zěnme jìnqù.	where is the door? I don't know how to get in.
+后面	rear	hòu mian	门 在 后面 左边	mén zài hòumiàn zuǒbiān	The door is on the left at the back.
+远	far	yuǎn	从 这里 到 你 家 有 多 远	cóng zhèlǐ dào nǐ jiā yǒu duō yuǎn	How far is it from here to your house?
+离	from	lí	我 家 离 学校 很 远	wǒjiā lí xuéxiào hěn yuǎn	My house is very far from the school.
+近	near	jìn	我 家 离 商店 很 近	wǒjiā lí shāngdiàn hěn jìn	My house is very close to the store.
+路	road	lù	前面 的 路 还 很 长	qiánmiàn de lù hái hěn zhǎng.	The road ahead is still very long/There is still a long way to go.
+问	to ask	wèn	请问，最 近 的 商店 在 哪里	qǐngwèn, zuì jìn de shāngdiàn zài nǎlǐ	Excuse me, where is the nearest store?.
+走	to walk	zǒu	弟弟 每天 走 去 学校	dìdì měitiān zǒu qù xuéxiào	My little brother walks to school every day.
+向	towards	xiàng	请 向 前面 走	qǐng xiàng qiánmiàn zǒu	Please walk forward.
+右边	right	yòu bian	商店 在 我 的 右边	shāngdiàn zài wǒ de yòubiān	The store is to my right.
+看见	to see	kàn jiàn	你 看见 学校 吗	nǐ kànjiàn xuéxiào ma	Do you see the school?
+快	fast	kuài	请 快 来	qǐng kuài lái	Please come quickly.
+得	particle used after a verb	de	他 走 得 很 快	tā zǒu de hěn kuài	He walks very fast.
+球	ball	qiú	这个 球 是 我 的	zhège qiú shì wǒ de	This ball is mine.
+踢	to kick	tī	他 踢 球 踢 得很 远	tā tī qiú tī dé hěn yuǎn	He kicks the ball very far.
+玩	play	wán	你 想 玩 什么 ？	nǐ xiǎng wán shénme	What do you want to play?
+游泳	swimming	yóu yǒng	我 妹妹 今年 学会了 游泳。	wǒ mèimei jīnnián xuéhuìle yóuyǒng	My little sister learned to swim this year.
+吧	(indicating suggestion)	ba	来 玩 吧 。	lái wán ba	let's play.
+打篮球	play basketball	dá lán qiú	我 喜欢 打 篮球	wǒ xǐhuān dǎ lánqiú	I like to play basketball.
+男人	a man	nán rén	那个 男人 每天 都 打篮球	nàgè nánrén měitiān dū dǎ lánqiú	That man plays basketball every day.
+外	outside	wài	我们 去 外面 打 篮球 吧 。	wǒmen qù wàimiàn dǎ lánqiú ba.	let's go outside and play basketball.
+跳	to jump	tiào	他 能 跳 得 很 高	tā néng tiào dé hěn gāo	He can jump very high.
+能	to be able to	néng	你 能 打 篮球 吗	nǐ néng dǎ lánqiú ma	Can you play basketball?
+唱歌	to sing a song	chàng gē	她 喜欢 唱歌	tā xǐhuān chànggē	She likes to sing.
+听	to listen	tīng	我 喜欢 听 他 唱歌	wǒ xǐhuān tīng tā chànggē	I like to hear him sing.
+跳舞	to dance	tiào wǔ	你 能 跳舞 吗 ？	nǐ néng tiàowǔ ma	can you dance?
+点	a bit; point	diǎn	请 走 快 一点	qǐng zǒu kuài yīdiǎn	Please walk a bit faster.
+慢	slow	màn	你 走 得 太 快 了 。   请 走 慢 一点 。 	nǐ zǒu dé tài kuàile. qǐng zǒu màn yīdiǎn	you're going too fast. please walk a bit slower.
+跑步	runing	pǎo bù	  他 每天 早上 都 去 跑步	tā měitiān zǎoshang dōu qù pǎobù	 He goes running every morning.
+运动	exercise	yùn dòng	我 每天 都 做 运动。	wǒ měitiān dū zuò yùndòng	I exercise every day.
+休息	rest	xiū xi	他 运动 一 个 小时 后 休息 了	tā yùndòng yīgè xiǎoshí hòu xiūxíle.	he rested after exercising for an hour
